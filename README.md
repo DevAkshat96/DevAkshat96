@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Working on a Discord bot to enhance community experiences.**
 
-- 📫 How to reach me **tiwariakshat578@gmail.com**
+- 📫 How to reach me **devakshat@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
