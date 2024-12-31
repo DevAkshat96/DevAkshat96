@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **discord bot**
+
 - 📫 How to reach me **tiwariakshat578@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
