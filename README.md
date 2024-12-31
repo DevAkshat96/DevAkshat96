@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate back-end developer from India</h3>
 
-- 🔭 I’m currently working on **discord bot**
+- 🔭 I’m currently working on **Working on a Discord bot to enhance community experiences.**
 
 - 📫 How to reach me **tiwariakshat578@gmail.com**
 
